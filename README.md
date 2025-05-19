@@ -4,7 +4,7 @@ Securing AWS account is crucial to prevent breaches, unauthorized access, and co
 
 ---
 # Why this Project
-I chose this project to build hands-on expertise in services I was not really familiar with, especially CloudTrail, CloudWatch metric filters, Config rules via CloudFormation, and Security Hub. Each step taught me something valuable, from filtering raw log data to interpreting compliance findings. These challenges not only reinforced my cloud security knowledge but also improved my ability to troubleshoot and problem solving skills.
+I chose this project to build hands-on expertise in services I was not really familiar with especially CloudTrail, CloudWatch metric filters, Config rules via CloudFormation, and Security Hub. Each step taught me something valuable, from filtering raw log data to interpreting compliance findings. These challenges not only reinforced my cloud security knowledge but also improved my ability to troubleshoot and problem solving skills.
 
 ---
 
@@ -16,7 +16,7 @@ I chose this project to build hands-on expertise in services I was not really fa
 
 2. **Logging & Monitoring**  
    - Deployed CloudTrail multi-region trails, integrated with CloudWatch Logs  
-   - Wrote custom metric filters (e.g. root logins, policy changes) and wired them to alarms
+   - Wrote custom metric filters (e.g. root logins, policy changes) and send them to alarms
 
 3. **Compliance Automation**  
    - Used CloudFormation to deploy AWS Config managed rules  
@@ -40,7 +40,7 @@ I chose this project to build hands-on expertise in services I was not really fa
 
 ## 🔗 Assessment & Reflection
 
-As part of documenting my work and supporting my GRC portfolio, I completed an **[Assessment Worksheet](./docs/Assessment-Worksheet.pdf)**. This worksheet:
+As part of documenting my work, I completed an **[Assessment Worksheet](./docs/Assessment_Worksheet.pdf)**. This worksheet:
 
 - **Verifies core controls**: Shows which security measures are in place and provides evidence  
 - **Tracks compliance**: Lists AWS Config rule status and noncompliant resources for remediation planning  
