@@ -28,7 +28,7 @@ I chose this project to build hands-on expertise in services I was not really fa
 
 ---
 
-## 🛠 Tools & AWS Services
+## 🛠 AWS Services used
 
 - **IAM & Identity**: IAM Password Policy, MFA, IAM Identity Center  
 - **Auditing & Alerts**: CloudTrail, CloudWatch Logs, Metric Filters, Alarms, SNS  
@@ -57,8 +57,7 @@ As part of documenting my work, I completed an **[Assessment Worksheet](./docs/A
 
 Questions or Suggestions? 
 
-If you found this helpful, consider sharing it with your network to spread awareness about the importance of secure AWS account governance. 
+If you found this helpful, could you share it with your network to spread awareness about the importance of secure AWS account governance. 
 
 Thank you!
 
----
